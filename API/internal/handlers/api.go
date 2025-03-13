@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	middleware "Learning/Code/API/internal/middleware" // Your custom authorization middleware package
+	middleware "API/internal/middleware" // Your custom authorization middleware package
 
 	"github.com/go-chi/chi"
 	chimiddle "github.com/go-chi/chi/middleware"
