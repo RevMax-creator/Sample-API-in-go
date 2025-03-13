@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"Learning/Code/API/api"
-	"Learning/Code/API/internal/tools"
+	"API/api"
+	"API/internal/tools"
 
 	log "github.com/sirupsen/logrus"
 )
