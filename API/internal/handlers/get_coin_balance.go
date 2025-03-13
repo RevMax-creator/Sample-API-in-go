@@ -1,10 +1,10 @@
 package handlers
 
 import (
-	"Learning/Code/API/internal/tools"
+	"API/internal/tools"
 	"encoding/json"
 
-	"Learning/Code/API/api"
+	"API/api"
 	"net/http"
 
 	"github.com/gorilla/schema"
