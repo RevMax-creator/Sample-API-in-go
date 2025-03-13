@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"Learning/Code/API/internal/handlers"
+	"API/internal/handlers"
 
 	"github.com/go-chi/chi"
 	log "github.com/sirupsen/logrus"
